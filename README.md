@@ -42,3 +42,7 @@ files:
   - source: ./my-app-1.0-SNAPSHOT.jar
     destination: /tmp
 ```
+
+## Requirements
+* AWS Account
+
