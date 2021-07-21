@@ -1,7 +1,7 @@
 # my-app -- About
 A maven build app
 
-This is a CI/CD project on AWS using AWS DevOps tool like AWS CodeBuild and CodeDeploy to build a java application using maven as build tool. The application is deployed using a specified deployment script.
+This is a CI/CD project on AWS using AWS DevOps tools 🧰 :  AWS CodeBuild and AWS CodeDeploy to build a java application using maven as build tool. The application is deployed using a specified deployment script.
 
 ## BuildSpec file
 
